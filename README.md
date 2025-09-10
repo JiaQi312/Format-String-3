@@ -3,7 +3,7 @@ My writeup on the picoCTF challenge: Format-String-3
 
 ## My Process
 
-    I originally had no clue how to solve this problem, since there was not an obvious win function. ChatGPT was very useful here, explaining to me the concept of the challenge and what I would have to do. This allowed me to start writing the script, but it was not working, so I had ChatGPT look at it again and tell me what may be wrong with it. I copied its version of the script, which was very similar to mine. But, there was one crucial thing I was missing, which is the interactive(). 
+    I originally had no clue how to solve this problem, since there was not an obvious win function. ChatGPT was very useful here, explaining to me the concept of the challenge and what I would have to do. This allowed me to start writing the script, but it was not working, so I had ChatGPT look at it again and tell me what may be wrong with it. I copied its version of the script, which was very similar to mine. But, there was one crucial thing I was missing, which was the interactive(). 
 
 ## Rundown
 
